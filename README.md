@@ -22,9 +22,9 @@ I'm working as a Software Developer Intern at **Digitaldict Technology Pvt. Ltd.
 - 🎮 I enjoy **gaming**, **watching war-themed movies**, and staying curious
 
 ### 📫 How to Reach Me:
-- 📧 Email: [your.email@example.com]
-- 💼 LinkedIn: [linkedin.com/in/your-link](#)
-- 🌐 Portfolio: [Coming Soon or your portfolio link]
+- 📧 Email: [dipuyadav5253@gmail.com ]
+- 💼 LinkedIn: [[linkedin.com/in/your-link](https://www.linkedin.com/in/dipu-yadav-5b1b7b214/)](#)
+- 🌐 Portfolio: [[ portfolio link](https://frabjous-sorbet-1a5a4b.netlify.app/)]
 
 ---
 
